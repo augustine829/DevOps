@@ -1,0 +1,6 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.plugins.robot.RobotConfig plugin="robot@3.3.0">
+  <robotResultsColumnEnabled>true</robotResultsColumnEnabled>
+  <buildsToShowInResultsColumn>15</buildsToShowInResultsColumn>
+  <xAxisLabelFormat>#$build</xAxisLabelFormat>
+</hudson.plugins.robot.RobotConfig>

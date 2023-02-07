@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugins.MsTestBuilder_-DescriptorImpl plugin="mstestrunner@1.5.0">
+  <installations/>
+</org.jenkinsci.plugins.MsTestBuilder_-DescriptorImpl>

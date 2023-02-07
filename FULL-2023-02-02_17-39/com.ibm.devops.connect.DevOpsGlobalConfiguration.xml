@@ -1,0 +1,10 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<com.ibm.devops.connect.DevOpsGlobalConfiguration plugin="urbancode-velocity@2.1.3">
+  <syncId></syncId>
+  <syncToken></syncToken>
+  <baseUrl></baseUrl>
+  <credentialsId></credentialsId>
+  <rabbitMQPort></rabbitMQPort>
+  <rabbitMQHost></rabbitMQHost>
+  <apiToken></apiToken>
+</com.ibm.devops.connect.DevOpsGlobalConfiguration>

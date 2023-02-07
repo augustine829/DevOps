@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<com.ibm.devops.dra.DevOpsGlobalConfiguration plugin="ibm-cloud-devops@2.0.16">
+  <debugMode>true</debugMode>
+</com.ibm.devops.dra.DevOpsGlobalConfiguration>
